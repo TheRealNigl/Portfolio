@@ -1,0 +1,11 @@
+D:\Documents\Website (Attempts)\Portfolio\Portfolio\bin\Debug\netcoreapp2.0\Portfolio.deps.json
+D:\Documents\Website (Attempts)\Portfolio\Portfolio\bin\Debug\netcoreapp2.0\Portfolio.runtimeconfig.json
+D:\Documents\Website (Attempts)\Portfolio\Portfolio\bin\Debug\netcoreapp2.0\Portfolio.runtimeconfig.dev.json
+D:\Documents\Website (Attempts)\Portfolio\Portfolio\bin\Debug\netcoreapp2.0\Portfolio.dll
+D:\Documents\Website (Attempts)\Portfolio\Portfolio\bin\Debug\netcoreapp2.0\Portfolio.pdb
+D:\Documents\Website (Attempts)\Portfolio\Portfolio\obj\Debug\netcoreapp2.0\Portfolio.csprojResolveAssemblyReference.cache
+D:\Documents\Website (Attempts)\Portfolio\Portfolio\obj\Debug\netcoreapp2.0\Portfolio.csproj.CoreCompileInputs.cache
+D:\Documents\Website (Attempts)\Portfolio\Portfolio\obj\Debug\netcoreapp2.0\Portfolio.AssemblyInfoInputs.cache
+D:\Documents\Website (Attempts)\Portfolio\Portfolio\obj\Debug\netcoreapp2.0\Portfolio.AssemblyInfo.cs
+D:\Documents\Website (Attempts)\Portfolio\Portfolio\obj\Debug\netcoreapp2.0\Portfolio.dll
+D:\Documents\Website (Attempts)\Portfolio\Portfolio\obj\Debug\netcoreapp2.0\Portfolio.pdb
