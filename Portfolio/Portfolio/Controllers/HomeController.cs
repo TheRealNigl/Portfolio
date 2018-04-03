@@ -6,17 +6,13 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Portfolio.Controllers
 {
-    public class HomeController //: Controller
+    //[Route("Home")]
+    public class HomeController : Controller
     {
+        //[Route("")]
         public IActionResult Index()
         {
-            return new ContentResult { Content = "Welcome" };
+            return View();
         }
-        
-
-        //public string Index()
-        //{
-        //    return "Hello ASP.Core MVC";
-        //}
     }
 }

@@ -39,7 +39,6 @@ namespace Portfolio
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env, FeatureToggles features)
         {
-
             app.UseExceptionHandler("/error.html");
             
             //if (configuration.GetValue<bool>("FeatureToggles:EnableDeveloperExceptions"))

@@ -28,12 +28,13 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="wwwroot\Website\layout\scripts\jquery.backtotop.js" />
-    <None Include="wwwroot\Website\layout\scripts\jquery.flexslider-min.js" />
-    <None Include="wwwroot\Website\layout\scripts\jquery.min.js" />
-    <None Include="wwwroot\Website\layout\scripts\jquery.mobilemenu.js" />
-    <None Include="wwwroot\Website\layout\styles\fonts\fontawesome-webfont.svg" />
-    <None Include="wwwroot\Website\layout\styles\fonts\fontawesome-webfont.woff2" />
+    <None Include="Views\Home\index.cshtml" />
+    <None Include="wwwroot\layout\scripts\jquery.backtotop.js" />
+    <None Include="wwwroot\layout\scripts\jquery.flexslider-min.js" />
+    <None Include="wwwroot\layout\scripts\jquery.min.js" />
+    <None Include="wwwroot\layout\scripts\jquery.mobilemenu.js" />
+    <None Include="wwwroot\layout\styles\fonts\fontawesome-webfont.svg" />
+    <None Include="wwwroot\layout\styles\fonts\fontawesome-webfont.woff2" />
   </ItemGroup>
 
   <ItemGroup>
