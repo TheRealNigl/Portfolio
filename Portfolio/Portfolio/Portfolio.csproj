@@ -28,7 +28,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="Views\Home\index.cshtml" />
     <None Include="wwwroot\layout\scripts\jquery.backtotop.js" />
     <None Include="wwwroot\layout\scripts\jquery.flexslider-min.js" />
     <None Include="wwwroot\layout\scripts\jquery.min.js" />
