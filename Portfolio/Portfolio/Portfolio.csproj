@@ -5,21 +5,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="About.html" />
-    <None Remove="Contact.html" />
-    <None Remove="Projects.html" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Content Include="About.html">
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-    </Content>
-    <Content Include="Contact.html">
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-    </Content>
-    <Content Include="Projects.html">
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-    </Content>
+    <Compile Remove="wwwroot\Website\**" />
+    <Content Remove="wwwroot\Website\**" />
+    <EmbeddedResource Remove="wwwroot\Website\**" />
+    <None Remove="wwwroot\Website\**" />
   </ItemGroup>
 
   <ItemGroup>
