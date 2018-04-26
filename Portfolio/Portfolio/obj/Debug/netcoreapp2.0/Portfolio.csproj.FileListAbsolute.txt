@@ -36,7 +36,6 @@ D:\Documents\GitHub\Portfolio\Portfolio\Portfolio\bin\Debug\netcoreapp2.0\Portfo
 D:\Documents\GitHub\Portfolio\Portfolio\Portfolio\bin\Debug\netcoreapp2.0\Portfolio.runtimeconfig.dev.json
 D:\Documents\GitHub\Portfolio\Portfolio\Portfolio\bin\Debug\netcoreapp2.0\Portfolio.dll
 D:\Documents\GitHub\Portfolio\Portfolio\Portfolio\bin\Debug\netcoreapp2.0\Portfolio.pdb
-D:\Documents\GitHub\Portfolio\Portfolio\Portfolio\obj\Debug\netcoreapp2.0\Portfolio.csprojResolveAssemblyReference.cache
 D:\Documents\GitHub\Portfolio\Portfolio\Portfolio\obj\Debug\netcoreapp2.0\Portfolio.csproj.CoreCompileInputs.cache
 D:\Documents\GitHub\Portfolio\Portfolio\Portfolio\obj\Debug\netcoreapp2.0\Portfolio.AssemblyInfoInputs.cache
 D:\Documents\GitHub\Portfolio\Portfolio\Portfolio\obj\Debug\netcoreapp2.0\Portfolio.AssemblyInfo.cs
@@ -52,3 +51,4 @@ C:\Users\alexander.nigl\Desktop\PROJECT\Portfolio\Portfolio\Portfolio\obj\Debug\
 C:\Users\alexander.nigl\Desktop\PROJECT\Portfolio\Portfolio\Portfolio\obj\Debug\netcoreapp2.0\Portfolio.AssemblyInfo.cs
 C:\Users\alexander.nigl\Desktop\PROJECT\Portfolio\Portfolio\Portfolio\obj\Debug\netcoreapp2.0\Portfolio.dll
 C:\Users\alexander.nigl\Desktop\PROJECT\Portfolio\Portfolio\Portfolio\obj\Debug\netcoreapp2.0\Portfolio.pdb
+D:\Documents\GitHub\Portfolio\Portfolio\Portfolio\obj\Debug\netcoreapp2.0\Portfolio.csprojResolveAssemblyReference.cache
