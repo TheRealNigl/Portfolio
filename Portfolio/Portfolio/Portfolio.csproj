@@ -12,6 +12,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Content Remove="wwwroot\images\Unity.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
     <None Remove="Properties\PublishProfiles\CustomProfile.pubxml" />
     <None Remove="Properties\PublishProfiles\CustomProfile1.pubxml" />
     <None Remove="Properties\PublishProfiles\Portfolio20180415070041 - Web Deploy.pubxml" />
