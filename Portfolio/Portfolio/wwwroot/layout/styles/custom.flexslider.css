@@ -1,4 +1,4 @@
-@charset "utf-8";
+﻿@charset "utf-8";
 /*
 Template Name: Overerts
 Author: <a href="http://www.os-templates.com/">OS Templates</a>
@@ -43,7 +43,7 @@ File: Custom Flexslider CSS => For FlexSlider v2.6.1
 .flex-direction-nav .flex-next{right:0;}
 .flexslider:hover .flex-prev, .flexslider:hover .flex-next{opacity:.5;}
 .flexslider:hover .flex-prev:hover, .flexslider:hover .flex-next:hover{opacity:1;}
-.flex-direction-nav .flex-disabled{visibility:hidden; opacity:0; cursor:default; z-index:-1;}
+.flex-direction-nav .flex-disabled{visibility:visible; opacity:0; cursor:all-scroll; z-index:-1;}
 
 /* Control Nav */
 .flex-control-nav{display:block; position:absolute; bottom:-80px; width:100%; text-align:center;}
@@ -60,6 +60,6 @@ File: Custom Flexslider CSS => For FlexSlider v2.6.1
 
 /* Colours
 --------------------------------------------------------------------------------------------------------------- */
-.flex-direction-nav a{color:rgba(255,255,255,1);}
-.flex-control-paging li a{background-color:rgba(255,255,255,1); border-color:rgba(255,255,255,0);}
-.flex-control-paging li a.flex-active{background-color:rgba(255,255,255,0); border-color:rgba(255,255,255,1);}
+.flex-direction-nav a{color:rgba(0,0,0,1);}
+.flex-control-paging li a{background-color:rgba(0,0,0,1); border-color:rgba(0,0,0,0);}
+.flex-control-paging li a.flex-active{background-color:rgba(0,0,0,0); border-color:rgba(0,0,0,1);}

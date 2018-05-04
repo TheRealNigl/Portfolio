@@ -1,4 +1,4 @@
-@charset "utf-8";
+﻿@charset "utf-8";
 /*
 Template Name: Overerts
 Author: <a href="http://www.os-templates.com/">OS Templates</a>
@@ -26,7 +26,7 @@ File: Layout CSS
 #header{}
 
 #header #logo{margin:30px 0 0 0;}
-#header #logo h1{margin:0; padding:0; font-size:22px; text-transform:uppercase;}
+#header #logo h1{margin:0; padding:0; font-size:32px; text-transform:uppercase;}
 
 
 /* Page Intro
@@ -35,7 +35,7 @@ File: Layout CSS
 
 #pageintro article{max-width:75%;}
 #pageintro article *{text-transform:uppercase;}
-#pageintro article .heading{margin:0 0 50px 0; padding:0; line-height:1; font-size:46px;}
+#pageintro article .heading{margin:0 0 50px 0; padding:0; line-height:1; font-size:32px;}
 #pageintro article p{margin:0;}
 #pageintro article p:first-of-type{margin-bottom:35px; font-size:22px; letter-spacing:5px;}
 #pageintro article footer{margin-top:80px;}
@@ -59,7 +59,10 @@ File: Layout CSS
 .services article .heading{font-size:1.2rem;}
 
 .excerpt{display:block; width:100%; max-width:320px; text-align:center;}
-.excerpt img{margin-bottom:30px;}
+.excerpt img{margin-bottom:30px}
+    .excerpt imgavatar {
+        border-radius: 20px
+    }
 .excerpt .excerpttxt *{margin:0;}
 .excerpt .excerpttxt .heading{margin-bottom:20px;}
 .excerpt .excerpttxt p{}
@@ -73,11 +76,12 @@ File: Layout CSS
 #comments time{font-size:smaller;}
 #comments .comcont{display:block; margin:0; padding:0;}
 #comments .comcont p{margin:10px 5px 10px 0; padding:0;}
+#comments .comcont p{margin:10px 5px 10px 0; padding:0;}
 
 #comments form{display:block; width:100%;}
 #comments input, #comments textarea{width:100%; padding:10px; border:1px solid;}
 #comments textarea{overflow:auto;}
-#comments div{margin-bottom:15px;}
+#comments div{margin-bottom:100px;}
 #comments input[type="submit"], #comments input[type="reset"]{display:inline-block; width:auto; min-width:150px; margin:0; padding:8px 5px; cursor:pointer;}
 
 /* Sidebar */
@@ -220,15 +224,30 @@ td{border-width:0 1px;}
 .faico li:last-child{margin-right:0;}
 .faico a{display:inline-block; width:36px; height:36px; line-height:36px; font-size:18px; text-align:center;}
 
-.faico a{color:#FFFFFF; background-color:#FF5723;}
+.faico a {
+        color: #FFFFFF;
+        background-color: #DAA520
+}
 .faico a:hover{}
 
-.faicon-dribble:hover{background-color:#EA4C89;}
-.faicon-facebook:hover{background-color:#3B5998;}
-.faicon-google-plus:hover{background-color:#DB4A39;}
-.faicon-linkedin:hover{background-color:#0E76A8;}
-.faicon-twitter:hover{background-color:#00ACEE;}
-.faicon-vk:hover{background-color:#4E658E;}
+.faicon-dribble:hover {
+    background-color: #DAA520;
+}
+.faicon-facebook:hover {
+    background-color: #DAA520;
+}
+.faicon-google-plus:hover {
+    background-color: #DAA520;
+}
+.faicon-linkedin:hover {
+    background-color: #DAA520;
+}
+.faicon-twitter:hover {
+    background-color: #DAA520;
+}
+.faicon-vk:hover {
+    background-color: #DAA520;
+}
 
 
 /* ------------------------------------------------------------------------------------------------------------ */
@@ -240,35 +259,35 @@ td{border-width:0 1px;}
 
 /* Colours
 --------------------------------------------------------------------------------------------------------------- */
-body{color:#CBCBCB; background-color:#222222;}
-a{color:#FF5723;}
+body{color:#000000; background-color:#FFFFFF;}
+a{color:#000000;}
 a:active, a:focus{background:transparent;}/* IE10 + 11 Bugfix - prevents grey background */
-hr, .borderedbox{border-color:#D7D7D7;}
-label span{color:#FF0000; background-color:inherit;}
-input:focus, textarea:focus, *:required:focus{border-color:#FF5723;}
-.overlay{color:#CBCBCB; background-color:inherit;}
-.overlay::after{color:inherit; background-color:rgba(0,0,0,.55);}
+hr, .borderedbox{border-color:#ffffff;}
+label span{color:#000000; background-color:inherit;}
+input:focus, textarea:focus, *:required:focus{border-color:#ffffff;}
+.overlay{color:#000000; background-color:inherit;}
+.overlay::after{color:inherit; background-color:rgba(255,255,255,.55);}
 
-.btn, .btn.inverse:hover{color:#FFFFFF; background-color:#FF5723; border-color:#FF5723;}
+.btn, .btn.inverse:hover{color:#000000; background-color:#ffffff; border-color:#ffffff;}
 .btn:hover, .btn.inverse{color:inherit; background-color:transparent; border-color:inherit;}
 
 
 /* Rows */
-.row1{color:#FFFFFF; background-color:rgba(255,255,255,.2);}
-.row2{color:#CBCBCB; background-color:#222222;}
-.row3{color:#474747; background-color:#FFFFFF;}
-.row4{color:#CBCBCB; background-color:#222222;}
-.row5, .row5 a{color:#CBCBCB; background-color:#222222;}
+.row1{color:#000000; background-color:rgba(255,255,255,.2);}
+.row2{color:#000000; background-color:#ffffff;}
+.row3{color:#000000; background-color:#FFFFFF;}
+.row4{color:#000000; background-color:#ffffff;}
+.row5, .row5 a{color:#000000; background-color:#ffffff;}
 
-.overlay .heading, .row2 .heading, .row4 .heading{color:#FFFFFF;}
+.overlay .heading, .row2 .heading, .row4 .heading{color:#000000;}
 
 /* Header */
 #header #logo a{color:inherit;}
 
 
 /* Content Area */
-.services article i{color:#FFFFFF; border-color:#FF5723;}
-.services article:hover i{background-color:#FF5723; border-color:#FF5723;}
+.services article i{color:#000000; border-color:#ffffff;}
+.services article:hover i{background-color:#000000; border-color:#FFFFFF;}
 
 
 /* Footer */
@@ -276,7 +295,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#FF5723;}
 
 
 /* Quick Links */
-.quicklinks{color:#FFFFFF; background-color:#FF5723;}
+.quicklinks{color:#000000; background-color:#FF5723;}
 .quicklinks a{color:inherit;}
 .quicklinks ul li::after{color:rgba(255,255,255,.3);}
 
@@ -297,7 +316,10 @@ input:focus, textarea:focus, *:required:focus{border-color:#FF5723;}
 .pagination a, .pagination strong{border-color:#D7D7D7;}
 .pagination .current *{color:#FFFFFF; background-color:#FF5723;}
 
-#backtotop{color:#FFFFFF; background-color:#FF5723;}
+#backtotop {
+    color: ##DAA520;
+    background-color: #000000;
+}
 
 
 /* Tables + Comments */
