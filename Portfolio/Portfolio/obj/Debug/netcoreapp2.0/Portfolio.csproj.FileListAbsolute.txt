@@ -52,3 +52,19 @@ C:\Users\student\Desktop\Portfolio\Portfolio\Portfolio\obj\Debug\netcoreapp2.0\P
 C:\Users\student\Desktop\Portfolio\Portfolio\Portfolio\obj\Debug\netcoreapp2.0\Portfolio.AssemblyInfo.cs
 C:\Users\student\Desktop\Portfolio\Portfolio\Portfolio\obj\Debug\netcoreapp2.0\Portfolio.dll
 C:\Users\student\Desktop\Portfolio\Portfolio\Portfolio\obj\Debug\netcoreapp2.0\Portfolio.pdb
+A:\GitHub Projects\Portfolio\Portfolio\Portfolio\bin\Debug\netcoreapp2.0\aws-beanstalk-tools-defaults.json
+A:\GitHub Projects\Portfolio\Portfolio\Portfolio\bin\Debug\netcoreapp2.0\config.development.json
+A:\GitHub Projects\Portfolio\Portfolio\Portfolio\bin\Debug\netcoreapp2.0\config.json
+A:\GitHub Projects\Portfolio\Portfolio\Portfolio\bin\Debug\netcoreapp2.0\Portfolio.deps.json
+A:\GitHub Projects\Portfolio\Portfolio\Portfolio\bin\Debug\netcoreapp2.0\Portfolio.runtimeconfig.json
+A:\GitHub Projects\Portfolio\Portfolio\Portfolio\bin\Debug\netcoreapp2.0\Portfolio.runtimeconfig.dev.json
+A:\GitHub Projects\Portfolio\Portfolio\Portfolio\bin\Debug\netcoreapp2.0\Portfolio.dll
+A:\GitHub Projects\Portfolio\Portfolio\Portfolio\bin\Debug\netcoreapp2.0\Portfolio.pdb
+A:\GitHub Projects\Portfolio\Portfolio\Portfolio\obj\Debug\netcoreapp2.0\Portfolio.csproj.AssemblyReference.cache
+A:\GitHub Projects\Portfolio\Portfolio\Portfolio\obj\Debug\netcoreapp2.0\Portfolio.GeneratedMSBuildEditorConfig.editorconfig
+A:\GitHub Projects\Portfolio\Portfolio\Portfolio\obj\Debug\netcoreapp2.0\Portfolio.AssemblyInfoInputs.cache
+A:\GitHub Projects\Portfolio\Portfolio\Portfolio\obj\Debug\netcoreapp2.0\Portfolio.AssemblyInfo.cs
+A:\GitHub Projects\Portfolio\Portfolio\Portfolio\obj\Debug\netcoreapp2.0\Portfolio.csproj.CoreCompileInputs.cache
+A:\GitHub Projects\Portfolio\Portfolio\Portfolio\obj\Debug\netcoreapp2.0\Portfolio.dll
+A:\GitHub Projects\Portfolio\Portfolio\Portfolio\obj\Debug\netcoreapp2.0\Portfolio.pdb
+A:\GitHub Projects\Portfolio\Portfolio\Portfolio\obj\Debug\netcoreapp2.0\Portfolio.genruntimeconfig.cache
