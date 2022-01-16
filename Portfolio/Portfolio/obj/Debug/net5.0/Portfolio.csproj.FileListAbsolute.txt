@@ -33,6 +33,7 @@ A:\GitHub Projects\Portfolio\Portfolio\Portfolio\bin\Debug\net5.0\System.Composi
 A:\GitHub Projects\Portfolio\Portfolio\Portfolio\bin\Debug\net5.0\System.Composition.Hosting.dll
 A:\GitHub Projects\Portfolio\Portfolio\Portfolio\bin\Debug\net5.0\System.Composition.Runtime.dll
 A:\GitHub Projects\Portfolio\Portfolio\Portfolio\bin\Debug\net5.0\System.Composition.TypedParts.dll
+A:\GitHub Projects\Portfolio\Portfolio\Portfolio\obj\Debug\net5.0\Portfolio.csproj.AssemblyReference.cache
 A:\GitHub Projects\Portfolio\Portfolio\Portfolio\obj\Debug\net5.0\Portfolio.GeneratedMSBuildEditorConfig.editorconfig
 A:\GitHub Projects\Portfolio\Portfolio\Portfolio\obj\Debug\net5.0\Portfolio.AssemblyInfoInputs.cache
 A:\GitHub Projects\Portfolio\Portfolio\Portfolio\obj\Debug\net5.0\Portfolio.AssemblyInfo.cs
@@ -40,12 +41,13 @@ A:\GitHub Projects\Portfolio\Portfolio\Portfolio\obj\Debug\net5.0\Portfolio.cspr
 A:\GitHub Projects\Portfolio\Portfolio\Portfolio\obj\Debug\net5.0\Portfolio.MvcApplicationPartsAssemblyInfo.cache
 A:\GitHub Projects\Portfolio\Portfolio\Portfolio\obj\Debug\net5.0\Portfolio.RazorAssemblyInfo.cache
 A:\GitHub Projects\Portfolio\Portfolio\Portfolio\obj\Debug\net5.0\Portfolio.RazorAssemblyInfo.cs
-A:\GitHub Projects\Portfolio\Portfolio\Portfolio\obj\Debug\net5.0\staticwebassets\Portfolio.StaticWebAssets.Manifest.cache
 A:\GitHub Projects\Portfolio\Portfolio\Portfolio\obj\Debug\net5.0\scopedcss\bundle\Portfolio.styles.css
+A:\GitHub Projects\Portfolio\Portfolio\Portfolio\obj\Debug\net5.0\staticwebassets\Portfolio.StaticWebAssets.Manifest.cache
 A:\GitHub Projects\Portfolio\Portfolio\Portfolio\obj\Debug\net5.0\Portfolio.TagHelpers.input.cache
 A:\GitHub Projects\Portfolio\Portfolio\Portfolio\obj\Debug\net5.0\Portfolio.TagHelpers.output.cache
 A:\GitHub Projects\Portfolio\Portfolio\Portfolio\obj\Debug\net5.0\Portfolio.RazorCoreGenerate.cache
 A:\GitHub Projects\Portfolio\Portfolio\Portfolio\obj\Debug\net5.0\Razor\Views\Home\index.cshtml.g.cs
+A:\GitHub Projects\Portfolio\Portfolio\Portfolio\obj\Debug\net5.0\Razor\wwwroot\Website - Copy\Index.cshtml.g.cs
 A:\GitHub Projects\Portfolio\Portfolio\Portfolio\obj\Debug\net5.0\Portfolio.RazorTargetAssemblyInfo.cache
 A:\GitHub Projects\Portfolio\Portfolio\Portfolio\obj\Debug\net5.0\Portfolio.RazorTargetAssemblyInfo.cs
 A:\GitHub Projects\Portfolio\Portfolio\Portfolio\obj\Debug\net5.0\Portfolio.Views.pdb
