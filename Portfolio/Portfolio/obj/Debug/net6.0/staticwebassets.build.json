@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wHSVqpbzNFkHqkUejDN0hCq1GOVGaalDOMFKHzza/B4=",
+  "Hash": "+HGYG/OKuJpmIv0US8CvjL8j8jbp9cNtuVQeQISxLMg=",
   "Source": "Portfolio",
   "BasePath": "_content/Portfolio",
   "Mode": "Default",
@@ -831,6 +831,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\pic12.jpg"
+    },
+    {
+      "Identity": "A:\\GitHub Projects\\Portfolio\\Portfolio\\Portfolio\\wwwroot\\images\\profile.jpg",
+      "SourceId": "Portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "A:\\GitHub Projects\\Portfolio\\Portfolio\\Portfolio\\wwwroot\\",
+      "BasePath": "_content/Portfolio",
+      "RelativePath": "images/profile.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\profile.jpg"
     },
     {
       "Identity": "A:\\GitHub Projects\\Portfolio\\Portfolio\\Portfolio\\wwwroot\\index.html",

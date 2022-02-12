@@ -1,0 +1,26 @@
+
+{
+    "comment" : "This file is used to help set default values when using the dotnet CLI extension Amazon.ElasticBeanstalk.Tools. For more information run \"dotnet eb --help\" from the project root.",
+    "profile" : "Alex Nigl",
+    "region"  : "us-west-2",
+    "application" : "Portfolio",
+    "environment" : "Portfolio-dev",
+    "iis-website" : "Default Web Site",
+    "app-path"    : "/",
+    "enable-xray" : false,
+    "cname"       : "portfolio-dev",
+    "solution-stack" : "64bit Amazon Linux 2 v2.2.9 running .NET Core",
+    "environment-type" : "SingleInstance",
+    "instance-profile" : "aws-elasticbeanstalk-ec2-role",
+    "service-role"     : "aws-elasticbeanstalk-service-role",
+    "instance-type"    : "t3a.medium",
+    "key-pair"         : "",
+    "health-check-url" : "/",
+    "configuration"    : "Debug",
+    "framework"        : "net6.0",
+    "self-contained"   : true,
+    "enhanced-health-type" : "basic",
+    "additional-options"   : "\"aws:autoscaling:launchconfiguration,SecurityGroups\"=\"sg-0307c39b5d9ceb3ee\";\"aws:ec2:vpc,Subnets\"=\"subnet-0f2a8901df714f524\"",
+    "proxy-server"         : "nginx",
+    "loadbalancer-type"    : "application"
+}
